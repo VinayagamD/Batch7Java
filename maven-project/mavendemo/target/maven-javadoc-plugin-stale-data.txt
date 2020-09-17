@@ -1,0 +1,24 @@
+cmd.exe
+/X
+/C
+""C:\Program Files\Java\jdk-15\bin\javadoc.exe" @options @packages"
+I:\workspace\Java\Batch8\maven-project\mavendemo\target\site\apidocs\allclasses-index.html = 1600264546717
+I:\workspace\Java\Batch8\maven-project\mavendemo\target\site\apidocs\allpackages-index.html = 1600264546720
+I:\workspace\Java\Batch8\maven-project\mavendemo\target\site\apidocs\constant-values.html = 1600264546677
+I:\workspace\Java\Batch8\maven-project\mavendemo\target\site\apidocs\deprecated-list.html = 1600264546694
+I:\workspace\Java\Batch8\maven-project\mavendemo\target\site\apidocs\element-list = 1600264546664
+I:\workspace\Java\Batch8\maven-project\mavendemo\target\site\apidocs\help-doc.html = 1600264546726
+I:\workspace\Java\Batch8\maven-project\mavendemo\target\site\apidocs\index-all.html = 1600264546713
+I:\workspace\Java\Batch8\maven-project\mavendemo\target\site\apidocs\index.html = 1600264546722
+I:\workspace\Java\Batch8\maven-project\mavendemo\target\site\apidocs\jquery-ui.overrides.css = 1600264546753
+I:\workspace\Java\Batch8\maven-project\mavendemo\target\site\apidocs\member-search-index.js = 1600264546711
+I:\workspace\Java\Batch8\maven-project\mavendemo\target\site\apidocs\module-search-index.js = 1600264546709
+I:\workspace\Java\Batch8\maven-project\mavendemo\target\site\apidocs\options = 1600264545999
+I:\workspace\Java\Batch8\maven-project\mavendemo\target\site\apidocs\overview-tree.html = 1600264546689
+I:\workspace\Java\Batch8\maven-project\mavendemo\target\site\apidocs\package-search-index.js = 1600264546709
+I:\workspace\Java\Batch8\maven-project\mavendemo\target\site\apidocs\packages = 1600264546000
+I:\workspace\Java\Batch8\maven-project\mavendemo\target\site\apidocs\script.js = 1600264546732
+I:\workspace\Java\Batch8\maven-project\mavendemo\target\site\apidocs\search.js = 1600264546734
+I:\workspace\Java\Batch8\maven-project\mavendemo\target\site\apidocs\stylesheet.css = 1600264546730
+I:\workspace\Java\Batch8\maven-project\mavendemo\target\site\apidocs\tag-search-index.js = 1600264546712
+I:\workspace\Java\Batch8\maven-project\mavendemo\target\site\apidocs\type-search-index.js = 1600264546710
